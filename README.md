@@ -5,14 +5,6 @@ The [DeepDreamAnimator](https://github.com/samim23/DeepDreamAnim) was used to re
 
 ![calista](https://i.imgur.com/iBGVPq1.jpg "calista")
 
-## Credits 
-Calista & The Crashroots - Deppdream  
-Vocals: [Calista Kazuko](https://twitter.com/CalistaKazuko)  
-Music: [Samim Winiger](https://twitter.com/samim) & [Miguel Toro](http://migueltoromusic.com/)  
-Horns: [Ben Abarbanel Wolff](https://twitter.com/abarwolff)   
-Video: [Samim.io](http://samim.io/) 
-
-
 ## Parameters
 
 **heavy face**  
